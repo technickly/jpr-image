@@ -1,10 +1,10 @@
-Get VM OS 
+# Get VM OS 
 root@d6fbb8d7b246:/# grep ID /etc/os-release
 VERSION_ID="22.04"
 ID=ubuntu
 ID_LIKE=debian
 
-Get VM Python version
+# Get VM Python version
 root@d6fbb8d7b246:/# python --version
 Python 2.7.18
 
